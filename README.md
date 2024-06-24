@@ -1,7 +1,7 @@
-## Hi there 👋
-
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=header&text=Wani's%20Github&fontSize=70" />
+👋 Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanibee&show_icons=true&theme=radical)
 
 <!--
 **wanibee/wanibee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
